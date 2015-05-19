@@ -1,3 +1,21 @@
+/*
+Coin Flipper
+
+Written By: Stephen Merendino
+Date: May 6, 2015
+
+Simple program that lets a user flip a coin as many
+times as they want and see the results.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 8, Practice Problem 1 (page 104)
+
+TODO:
+-None
+*/
+
 #include <iostream>;
 #include <cstdlib>;
 #include <ctime>;

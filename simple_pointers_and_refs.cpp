@@ -1,6 +1,19 @@
 /*
-*Simple program for trying out points and references that reads in a few values and spits them back out.
-*Decided not to use the std namespace just as an excercise in practice.
+Simple Pointers and References program.
+
+Written By: Stephen Merendino
+Date: May 12, 2015
+
+Simple program for trying out points and references that reads in a few values and spits them back out.
+Decided not to use the std namespace just as an excercise in practice.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 13, Practice Problem 1 (page 147)
+
+TODO:
+-Add back in the std namespace, its needed badly.
 */
 
 #include <iostream>;

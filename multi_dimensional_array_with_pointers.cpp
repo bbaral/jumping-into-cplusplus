@@ -1,5 +1,19 @@
 /*
-Write a function that builds a two-dimensional multiplication table with arbitrary sizes for the two dimensions
+Multi-dimensional arrays with pointers
+
+Written By: Stephen Merendino
+Date: May 12, 2015
+
+This program builds a two-dimensional multiplication table 
+with arbitrary sizes for the two dimensions.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 14, Practice Problem 1 (page 159)
+
+TODO:
+-None
 */
 
 #include <iostream>

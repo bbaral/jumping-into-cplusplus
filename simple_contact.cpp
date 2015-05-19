@@ -1,5 +1,18 @@
 /*
+Simple Contact Struct
+
+Written By: Stephen Merendino
+Date: May 12, 2015
+
 A simple program to try structs out. Simple contact reader that reads in a single contact and prints it back out.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 11, Practice Problem 1 (page 129)
+
+TODO:
+-None
 */
 
 #include <iostream>;

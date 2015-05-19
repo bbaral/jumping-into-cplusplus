@@ -1,14 +1,27 @@
-#include <iostream>;
-#include <string>;
-
-using namespace std;
-
 /*
+Factorization Prime Finder
+
+Written By: Stephen Merendino
+Date: May 6, 2015
+
 Design a program that finds all numbers from 1 to 1000 whose prime factors,
 when added together, sum up to a prime number (for example, 12
 has prime factors of 2, 2, and 3, which sum to 7, which is prime).
 Implement the code for that algorithm.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 9, Practice Problem 3 (page 111)
+
+TODO:
+-None
 */
+
+#include <iostream>;
+#include <string>;
+
+using namespace std;
 
 int sumFactors(int num);
 bool isPrime(int num);

@@ -1,5 +1,19 @@
 /*
 Simple two-way sorted linked list.
+
+Written By: Stephen Merendino
+Date: May 13, 2015
+
+This program builds a two-dimensional multiplication table 
+with arbitrary sizes for the two dimensions.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 15, Practice Problem 2 (page 172)
+
+TODO:
+-None
 */
 
 #include <iostream>;

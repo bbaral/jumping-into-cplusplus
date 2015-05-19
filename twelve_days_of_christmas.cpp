@@ -1,3 +1,21 @@
+/*
+Twelve Days of Christmas Lyrics
+
+Written By: Stephen Merendino
+Date: May 6, 2015
+
+Simple program that demonstrates how a switch statement works.
+It prints out the lyrics to Twelve Days of Christmas.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 7, Practice Problem 2 (page 99)
+
+TODO:
+-None
+*/
+
 #include <iostream>;
 #include <string>;
 

@@ -7,8 +7,13 @@ Date: May 18, 2015
 Recursive solution to the famous Towers of Hanoi problem. I used basic
 structs and arrays to get this done.
 
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 16, Practice Problem 5 (page 185)
+
 TODO:
--Use Vectors instead of arrays.
+-Use vectors instead of arrays.
 -Print out the towers after each move.
 -Add a graphical screen that shows the user each move and lets them step through each move
 */

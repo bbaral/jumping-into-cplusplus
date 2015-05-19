@@ -1,5 +1,18 @@
 /*
+Simple Insertion Sort
+
+Written By: Stephen Merendino
+Date: May 11, 2015
+
 A program that detects whether an array is sorted or not, and if it is not sorted, sorts it.
+
+Problem Source: 
+Learning with C++
+Alex Alain
+Chapter 10, Practice Problem 3 (page 123)
+
+TODO:
+-None
 */
 
 #include <iostream>;
