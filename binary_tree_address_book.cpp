@@ -13,7 +13,7 @@ Program also cleans up its memory when it shuts down.
 Problem Source:
 Learning with C++
 Alex Alain
-Chapter 17, Practice Problem 6 (page 104)
+Chapter 17, Practice Problem 6 (page 204)
 
 TODO:
 -Clean up the output spacing a tad bit.
