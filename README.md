@@ -1,7 +1,7 @@
 # C++ Learning
 
 *This is code I've written while learning C++. I'm probably not using best practices or the newest
-C++11/14 features (YET!). This is repository for historical purposes, so that I can come back in the future
+C++11/14 features (YET!). This repository is for historical purposes, so that I can come back in the future
 and see my early C++ code.*
 
 These are just tiny little C++ programs I've written while learning the language. I've used a book called
