@@ -1,4 +1,4 @@
-# C++ Learning
+## My C++ Learning
 
 *This is code I've written while learning C++. I'm probably not using best practices or the newest
 C++11/14 features (YET!). This repository is for historical purposes, so that I can come back in the future
@@ -13,4 +13,4 @@ new language features as I went, so the earlier programs aren't the best.
 
 ## Resources
 
-[The Book that these practice problems come from.](http://www.cprogramming.com/c++book/?inl=sb)
+[The book that these practice problems come from.](http://www.cprogramming.com/c++book/?inl=sb)
