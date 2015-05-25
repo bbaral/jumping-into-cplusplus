@@ -1,4 +1,4 @@
-## My C++ Learning
+### Jumping Into C++
 
 *This is code I've written while learning C++. I'm probably not using best practices or the newest
 C++11/14 features (YET!). This repository is for historical purposes, so that I can come back in the future
@@ -11,6 +11,6 @@ progress through his book.
 I've date stamped and given some info on what each program does in the header. I was learning
 new language features as I went, so the earlier programs aren't the best.
 
-## Resources
+### Resources
 
 [The book that these practice problems come from.](http://www.cprogramming.com/c++book/?inl=sb)
